@@ -26,7 +26,7 @@ instance, where data can be forwarded to backend monitoring services.
 
 ## System Architecture
 
-![System Architecture](LoRaWAN%20Industrial%20Sensor%20Architecture.jpg)
+![System Architecture](p2_5.jpg)
 
 ---
 
