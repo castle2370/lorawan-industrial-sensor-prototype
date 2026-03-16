@@ -26,7 +26,7 @@ instance, where data can be forwarded to backend monitoring services.
 
 ## System Architecture
 
-![System Architecture](p2-5.jpg)
+![System Architecture](P2-5.jpg)
 
 ---
 
