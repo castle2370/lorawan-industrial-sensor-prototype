@@ -107,8 +107,8 @@ This was a solo prototype development project. My responsibilities included:
 
 ## Photos
 
-![Photo 1](P2_1.jpg)
-![Photo 2](P2_2.jpg)
+![Photo 1](P2_1.png)
+![Photo 2](P2_2.png)
 ![Photo 2](P2_3.jpg)
 ![Photo 2](P2_4.jpg)
 
